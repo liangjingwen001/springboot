@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "car",
+      "type": "firstproject.first.bean.Car",
+      "sourceType": "firstproject.first.bean.Car"
+    }
+  ],
+  "properties": [
+    {
+      "name": "car.money",
+      "type": "java.lang.Integer",
+      "sourceType": "firstproject.first.bean.Car"
+    },
+    {
+      "name": "car.name",
+      "type": "java.lang.String",
+      "sourceType": "firstproject.first.bean.Car"
+    }
+  ],
+  "hints": []
+}
